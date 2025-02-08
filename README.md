@@ -3,17 +3,17 @@
 This is a Java Swing Contact Management System that allows users to add, edit, delete, search, and view contacts using a graphical user interface. The application uses *CardLayout* to manage different views, making navigation seamless.
 
 ## **Features**
-#### **1. Contact List View:**
+#### **1. Contact List View**
 Displays contacts in a JList.
 Options to add, view details, search, and delete contacts.
 
-#### **2. Contact Details View:** 
+#### **2. Contact Details View** 
 Displays contact details: Name, Phone, Email, Profile Picture.
 Mark contacts as favorites.
 Call and message simulation. 
 Edit contact details.
 
-#### **3. Contact Creation Form:**
+#### **3. Contact Creation Form**
 Add a new contact with name, phone, email, and profile picture.
 Save contact or cancel the operation.
 
