@@ -33,7 +33,7 @@ Save contact or cancel the operation.
 
 ## **How to Run the Project**
 
-1. Clone the repository
+1. Clone the repository.
 2. Open the project in an *IDE* like IntelliJ IDEA or Eclipse.
 3. Compile and run the ContactManager.java file.
 
@@ -43,8 +43,8 @@ Save contact or cancel the operation.
 ## **Future Improvements:**
 
   1. Improve UI with better layouts.
- Add functionality to import/export contacts.
-  2. Improve search functionality to reset list easily.
+  2. Add functionality to import/export contacts.
+  3. Improve search functionality to reset list easily.
 
 ## **Support**
 For support email [cnzabb@gmail.com ](mailto:cnzabb@gmail.com)  and [kasibanteabdurahman@gmail.com](mailto:kasibanteabdurahman@gmail.com)
