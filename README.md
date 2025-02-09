@@ -38,8 +38,19 @@ Save contact or cancel the operation.
 3. Compile and run the ContactManager.java file.
 
 ## **Screenshots**
-
-
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin: 5px;">
+      <img src="https://github.com/Wasswaishaq123/PhoneContactAPP_Task3/blob/main/TASK3/images/Screenshot%202025-02-08%20230027.png?raw=true" alt="Contact_App" style="width: 49%;">
+      <img src="https://github.com/Wasswaishaq123/PhoneContactAPP_Task3/blob/main/TASK3/images/Screenshot%202025-02-08%20230048.png?raw=true" alt="Contact_App" style="width: 49%;">
+    </div>
+    <div style="flex: 1; margin: 5px;">
+      <img src="https://github.com/Wasswaishaq123/PhoneContactAPP_Task3/blob/main/TASK3/images/Screenshot%202025-02-08%20230105.png?raw=true" alt="Contact_App" style="width: 49%;">
+      <img src="https://github.com/Wasswaishaq123/PhoneContactAPP_Task3/blob/main/TASK3/images/Screenshot%202025-02-08%20230119.png?raw=true" alt="Contact_App" style="width: 49%;">
+    </div>
+    <div style="flex: 1; margin: 5px;">
+      <img src="https://github.com/Wasswaishaq123/PhoneContactAPP_Task3/blob/main/TASK3/images/Screenshot%202025-02-08%20230246.png?raw=true" alt="Contact_App" style="width: 49%;">
+    </div>
+  </div>
 ## **Future Improvements:**
 
   1. Improve UI with better layouts.
